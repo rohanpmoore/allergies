@@ -1,0 +1,2 @@
+def allergies(number)
+end
